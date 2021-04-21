@@ -1,3 +1,8 @@
+# Note:  This is not the original repo.  The original repo was made my a university in Taiwan and is on GitLab.  This is my fork of their repo.
+# I contributed a tiny little Jupyter Notebook to them that gets you started but they may or may not have uploaded that to their GitLab.
+
+# They have their own license so please refer to that.  
+
 # TrackNet: Tennis Ball Tracking from Broadcast Video by Deep Learning Networks
 
 ## First, you have to install cuda, cudnn and tensorflow, tutorial:
