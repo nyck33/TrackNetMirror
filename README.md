@@ -1,4 +1,5 @@
-# Note:  This is not the original repo.  The original repo was made my a university in Taiwan and is on GitLab.  This is my fork of their repo.
+# Note: This repo will not be maintained, issues will not be addressed and any and all usage is at your own risk.  
+# Note:  This is not the original repo.  The original repo was made my a university in Taiwan and is on GitLab here: https://nol.cs.nctu.edu.tw:234/open-source/TrackNet/  
 # I contributed a tiny little Jupyter Notebook to them that gets you started but they may or may not have uploaded that to their GitLab.
 
 # They have their own license so please refer to that.  
