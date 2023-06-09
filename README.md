@@ -140,3 +140,6 @@ https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubu
 
 ## Labeling Tool: Make your own dataset
 See the readme file in the LabelingTool directory
+
+# These guys did pretty well on bounce detection: https://github.com/ArtLabss/tennis-tracking/issues/11
+### please feel free to update me via the issues or by email if you figure out ways to detect bounces even better.
